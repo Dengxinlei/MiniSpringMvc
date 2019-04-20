@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Minispringmvc:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Minispringmvc_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Minispringmvc" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="Minispringmvc/web/Web" />
+    </root>
+  </artifact>
+</component>
